@@ -2,3 +2,6 @@ frekvencny_rozsah(hz) = x
 sirka_luca(°) = x
 poloha(DD/DDM/DMS) = x
 celkove_zosilnenie(db) = x
+---
+Tento subor je platna verzia suboru ktory urcuje vlastnosti specifickej anteny a jej zosilnovaca.
+V kazdej zatvorke sa nachadza jednotka alebo format danej veliciny ci hodnoty, v zatvorke musi byt len jedna platna jednotka ci format.
