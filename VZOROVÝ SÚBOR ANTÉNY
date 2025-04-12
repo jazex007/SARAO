@@ -1,1 +1,4 @@
-
+frekvencny_rozsah(hz) = x
+sirka_luca(°) = x
+poloha(DD/DDM/DMS) = x
+celkove_zosilnenie(db) = x
